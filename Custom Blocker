@@ -1,0 +1,265 @@
+# =====================================================
+# AI BLOCKLIST (ChatGPT Allowed)
+# =====================================================
+
+# ---------- Anthropic ----------
+claude.ai
+console.anthropic.com
+api.anthropic.com
+
+# ---------- Google ----------
+gemini.google.com
+bard.google.com
+aistudio.google.com
+makersuite.google.com
+generativelanguage.googleapis.com
+
+# ---------- Microsoft ----------
+copilot.microsoft.com
+
+# ---------- Meta ----------
+meta.ai
+www.meta.ai
+
+# ---------- Perplexity ----------
+perplexity.ai
+www.perplexity.ai
+api.perplexity.ai
+
+# ---------- Grok ----------
+grok.com
+grok.x.com
+
+# ---------- DeepSeek ----------
+deepseek.com
+chat.deepseek.com
+platform.deepseek.com
+api.deepseek.com
+
+# ---------- Mistral ----------
+chat.mistral.ai
+console.mistral.ai
+api.mistral.ai
+
+# ---------- Qwen ----------
+chat.qwen.ai
+
+# ---------- Poe ----------
+poe.com
+www.poe.com
+
+# ---------- You.com ----------
+you.com
+
+# ---------- Phind ----------
+phind.com
+
+# ---------- Kagi Assistant ----------
+kagi.com
+
+# =====================================================
+# Character / NSFW AI
+# =====================================================
+
+character.ai
+beta.character.ai
+
+janitorai.com
+www.janitorai.com
+
+chub.ai
+www.chub.ai
+venus.chub.ai
+
+spicychat.ai
+www.spicychat.ai
+
+crushon.ai
+www.crushon.ai
+
+candy.ai
+www.candy.ai
+
+dreamgf.ai
+
+girlfriendgpt.com
+
+muah.ai
+
+kindroid.ai
+
+nomi.ai
+
+replika.ai
+my.replika.ai
+
+joyland.ai
+
+sakura.fm
+
+kajiwoto.ai
+
+botify.ai
+
+dopple.ai
+
+roleplai.app
+
+anima.ai
+
+evaapp.ai
+
+romanticai.com
+
+# =====================================================
+# Story / RP
+# =====================================================
+
+novelai.net
+
+play.aidungeon.com
+aidungeon.com
+
+inworld.ai
+
+fables.gg
+
+# =====================================================
+# Image Generation
+# =====================================================
+
+midjourney.com
+alpha.midjourney.com
+
+leonardo.ai
+app.leonardo.ai
+
+ideogram.ai
+
+playgroundai.com
+
+mage.space
+
+tensor.art
+
+civitai.com
+
+seaart.ai
+
+getimg.ai
+
+openart.ai
+
+artbreeder.com
+
+dream.ai
+
+nightcafe.studio
+
+starryai.com
+
+dreamstudio.ai
+
+dezgo.com
+
+pixai.art
+
+fooocus.one
+
+# =====================================================
+# AI Development Platforms
+# =====================================================
+
+huggingface.co
+huggingface.chat
+
+replicate.com
+
+together.ai
+
+openrouter.ai
+
+modal.com
+
+fireworks.ai
+
+groq.com
+
+cohere.com
+
+cohere.ai
+
+inference.net
+
+deepinfra.com
+
+fal.ai
+
+baseten.co
+
+octoai.cloud
+
+# =====================================================
+# Local AI Tools
+# =====================================================
+
+ollama.ai
+ollama.com
+
+lmstudio.ai
+
+jan.ai
+
+pinokio.computer
+
+# =====================================================
+# Coding AI
+# =====================================================
+
+cursor.com
+
+windsurf.com
+
+codeium.com
+
+tabnine.com
+
+continue.dev
+
+sourcegraph.com
+
+cody.dev
+
+# =====================================================
+# AI Search
+# =====================================================
+
+andisearch.com
+
+exa.ai
+
+# =====================================================
+# Miscellaneous
+# =====================================================
+
+pi.ai
+
+inflection.ai
+
+writesonic.com
+
+jasper.ai
+
+copy.ai
+
+rytr.me
+
+simplified.com
+
+gamma.app
+
+tome.app
+
+beautiful.ai
+
+notebooklm.google.com
